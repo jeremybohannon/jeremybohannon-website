@@ -1,0 +1,53 @@
+baseurl = "https://jeremybohannon.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Jeremy Bohannon"
+title = "Jeremy Bohannon"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Jeremy Bohannon"
+intro = "Web Development Virtuoso"
+description = "Passionate web developer always looking for opportunities to grow and contribute to challenging projects with awesome people."
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Social media links page"
+keywords = "hugo,developer,frontend,javascript"
+
+## Social Accounts
+[params.social]
+github = "jeremybohannon"
+instagram = "jeremybohannon"
+linkedin = "jeremybohannon"
+
+## Extras
+[params.extra]
+copyright = "© 2021. Jeremy Bohannon. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+    name = "resume"
+    identifier = "resume"
+    weight = 200
+    url = "/resume/"
