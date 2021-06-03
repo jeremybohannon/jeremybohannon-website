@@ -1,4 +1,4 @@
-baseurl = "http://jeremybohannon.com"
+baseurl = "https://jeremybohannon.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
