@@ -10,6 +10,6 @@ title = "Resume"
 showpagemeta = false
 +++
 
-{{< embed-pdf url="Jeremy Bohannon_Resume_2021.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/Jeremy Bohannon_Resume_2021.pdf" hidePaginator="true" >}}
 
 
