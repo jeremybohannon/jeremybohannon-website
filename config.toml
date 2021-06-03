@@ -27,7 +27,7 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Social media links page"
+description = "Web Development Virtuoso"
 keywords = "hugo,developer,frontend,javascript"
 
 ## Social Accounts
